@@ -1,6 +1,6 @@
 Kracekumar 
 ----
-**About Me**: Hacker, Linux Lover, FOSS Freak, Geek, Pythonista.
+**About Me**: Hacker, GNU/Linux Lover, FOSS Freak, Geek, Pythonista.
 
 Current Work
     I am Associate System Engineering in IBM India Pvt Ltd, Bangalore. I 
@@ -63,6 +63,25 @@ My Projects
 
     :Open Source Contribution: Twython, Flask, Clint, args, brubeck, envoy, 
       vaincheese
+
+**Skills**
+
+    +----------------------+---------------------------------------------+
+    |Programming Languages | Python, C, C#, Ruby, c++, Javascript, PHP   |
+    +----------------------+---------------------------------------------+
+    |Database              | MySQL, Oracle 10g, MSSQL, Postgres          |
+    +----------------------+---------------------------------------------+
+    |NoSQL                 | Redis, MongoDB                              |
+    +----------------------+---------------------------------------------+
+    |Version Control       | Git                                         |
+    +----------------------+---------------------------------------------+
+    |OS                    | GNU/Linux                                   |
+    +----------------------+---------------------------------------------+
+    |Web Frameworks        | Flask, Brubeck, Django, Rails(Entry level)  |
+    +----------------------+---------------------------------------------+
+    |Other Tools           | Vim, Ipython, BASH scripting, Fabric        |
+    +----------------------+---------------------------------------------+
+
 *Website*: www.kracekumar.com
 *Old Blog*: www.kracekumar.wordpress.com
 *Email*: me@kracekumar.com
