@@ -120,11 +120,11 @@ My Projects
 
 
 **Personal Details**
-    - Date Of Birth   : 12th Sep, 1989
-    - Father's Name   : Mr. Ramaraju.S
-    - Mother's Name   : Mrs. Kokilla Ramaraju
-    - Permanent Addres: 13/25B, Mani Manju Illam, Annanagar, KinathuKadavu, Coimbatore, TamilNadu - 642109
-    - Current Address : No 17, Soha Manzil, Nagawara, Bangalore, Karnataks - 560045
+    - Date Of Birth     : 12th Sep, 1989
+    - Father's Name     : Mr. Ramaraju.S
+    - Mother's Name     : Mrs. Kokilla Ramaraju
+    - Permanent Addres  : 13/25B, Mani Manju Illam, Annanagar, KinathuKadavu, Coimbatore, TamilNadu - 642109
+    - Temporary Address : No 17, Soha Manzil, Om Shakthi Matha Illam, Nagawara, Bangalore, Karnataks - 560045
 
 *Email*: me@kracekumar.com
 
