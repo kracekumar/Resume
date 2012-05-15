@@ -1,4 +1,4 @@
 Kracekumar 
 ----
-** About Me **: Hacker, Linux Lover, FOSS Freak, Geek.
+**About Me**: Hacker, Linux Lover, FOSS Freak, Geek.
 
