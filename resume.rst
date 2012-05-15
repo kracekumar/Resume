@@ -16,9 +16,19 @@ My Projects
         IPLSaga is real time tweet analysis about IPL and IPL teams. IPLSaga 
         uses twitter streaming api to get tweets about IPL and IPL teams. 
         IPLSaga parses entire tweet and doesn't look for hash tag. IPLSaga Bot
-        tweets hourly tweet points about IPL5 and IPL teams.
+        tweets hourly tweet points about IPL5 and IPL teams. 
 
-        :website: www.iplsaga.in
+        :Website www.iplsaga.in
+        :Technologies Python, Flask, MongoDB, ZeroMQ, Requests, Bootstrap,Jquery
+
+    *Sachintweets*
+        Sachintweets is an attempt to collect all tweets about sachin tendulkar.
+        This was developed because I am a huge fan of sachin. All the tweets are
+        stored in MongoDB.
+
+        :Website www.sachintweets.in
+        :Technologies Python, Flask, MongoDB, ZeroMQ, Requests, Bootstrap, 
+                      Jquery
 
 *Website*: www.kracekumar.com
 *Old Blog*: www.kracekumar.wordpress.com
