@@ -13,9 +13,9 @@ Current Work
 
 My Projects
     *IPLSaga*
-        IPLSaga is real time tweet analysis about IPL and IPL teams. IPLSaga 
-        uses twitter streaming api to get tweets about IPL and IPL teams. 
-        IPLSaga parses entire tweet and doesn't look for hash tag. IPLSaga Bot
+        IPLSaga is real time tweet analysis about IPL5 and IPL teams. IPLSaga 
+        uses twitter streaming api to get tweets about IPL5 and IPL teams. 
+        IPLSaga parses entire tweet and doesn't look only for hash tag. IPLSaga Bot
         tweets hourly tweet points about IPL5 and IPL teams. 
 
         :Website: www.iplsaga.in
@@ -40,7 +40,7 @@ My Projects
     *pylive*
         An online python interpreter written in Flask, uses PyPy-1.7 for 
         sandboxing the user submitted source code. Currently the website is 
-        shutdown, work under progress.
+        shutdown, work under progress but repo code works.
 
         :Technologies: Python, Flask, Postgres, PyPy
 
@@ -56,7 +56,7 @@ My Projects
         :Source Code: https://github.com/kracekumar/Gummi
 
     *Blaze*
-        Static blog engine which uses YAML for data storage. Blaze power 
+        Static blog engine which uses YAML for data storage. Blaze can power 
         blog engine and static websites. It uses Jinja 2 for templating.
 
         :Technologies: Python, Flask, Jinja 2, YAML
@@ -98,18 +98,18 @@ My Projects
     | 2007        | HSC 93.25%                                                                   |
     +-------------+------------------------------------------------------------------------------+
     | 2007 - 2011 | - B.Tech Information Technology from                                         |
-    |             |   Amrita Vishwa Vidyapetham, Coimbatore                                      |
+    |             |   Amrita Vishwa Vidyapetham, Coimbatore, Tamilnadu.                          |
     |             |                                                                              |
     |             | - CGPA - 7.27                                                                |
     |             |                                                                              |
     |             |  *College Projects*                                                          |
     |             |      - Automatic generation of Pidgin status                                 |
-    |             |        using fortune command and Python D-BUS                                |
+    |             |        using fortune command and Python D-BUS.                               |
     |             |                                                                              |
-    |             |       - Mini Template based Website builder(LAMP Stack)                      |
+    |             |       - Mini Template based Website builder(LAMP Stack).                     |
     |             |                                                                              |
     |             |      - Novel data discrimination in wireless Sensor                          |
-    |             |        Network (Python)                                                      |
+    |             |        Network (Python).                                                     |
     |             |                                                                              |
     |             |  *Speaker*                                                                   |
     |             |       - IEEE Session: Programming at the speed of light                      |
@@ -130,4 +130,4 @@ My Projects
 
 *Phone*: +918553029521, +919790658304
 
-        I hereby declare that above furnished details are true to my knowledge
+        I hereby declare that above furnished details are true to my knowledge.
