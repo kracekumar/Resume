@@ -18,20 +18,21 @@ My Projects
         IPLSaga parses entire tweet and doesn't look for hash tag. IPLSaga Bot
         tweets hourly tweet points about IPL5 and IPL teams. 
 
-        :Website www.iplsaga.in
+        :Website: www.iplsaga.in
 
 
-        :Technologies Python, Flask, MongoDB, ZeroMQ, Requests, Bootstrap,Jquery
+        :Technologies: Python, Flask, MongoDB, ZeroMQ, Requests, Bootstrap,
+                       Jquery
 
     *Sachintweets*
         Sachintweets is an attempt to collect all tweets about sachin tendulkar.
         This was developed because I am a huge fan of sachin. All the tweets are
         stored in MongoDB.
 
-        :Website www.sachintweets.in
+        :Website: www.sachintweets.in
 
 
-        :Technologies Python, Flask, MongoDB, ZeroMQ, Requests, Bootstrap, 
+        :Technologies: Python, Flask, MongoDB, ZeroMQ, Requests, Bootstrap, 
                       Jquery
 
 *Website*: www.kracekumar.com
