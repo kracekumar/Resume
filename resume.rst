@@ -22,7 +22,7 @@ My Projects
 
 
         :Technologies: Python, Flask, MongoDB, ZeroMQ, Requests, Bootstrap,
-                       Jquery
+                       Jquery, Fabric
 
     *Sachintweets*
         Sachintweets is an attempt to collect all tweets about sachin tendulkar.
@@ -33,8 +33,37 @@ My Projects
 
 
         :Technologies: Python, Flask, MongoDB, ZeroMQ, Requests, Bootstrap, 
-                      Jquery
+                      Jquery, Fabric
 
+        :Source Code: https://github.com/kracekumar/sachintweets
+
+    *pylive*
+        An online python interpreter written in Flask, uses PyPy-1.7 for 
+        sandboxing the user submitted source code. Currently the website is 
+        shutdown, work under progress.
+
+        :Technologies: Python, Flask, Postgres, PyPy
+
+        :Source Code: https://github.com/kracekumar/pylive/
+
+    *Gummi*
+        An online chat room application written in Flask and uses Redis for 
+        persistent storage. Gummi supports multiple chat room and authentication
+        uses facebook oauth. Gummi supports emoticons.
+
+        :Technologies: Python, Flask, Redis, Jquery
+
+        :Source Code: https://github.com/kracekumar/Gummi
+
+    *Blaze*
+        Static blog engine which uses YAML for data storage. Blaze power 
+        blog engine and static websites. It uses Jinja 2 for templating.
+
+        :Technologies: Python, Flask, Jinja 2, YAML
+
+    :Open Source Contribution: Twython, Flask, Clint, args, brubeck, envoy, 
+     
+     vaincheese
 *Website*: www.kracekumar.com
 *Old Blog*: www.kracekumar.wordpress.com
 *Email*: me@kracekumar.com
