@@ -65,7 +65,6 @@ My Projects
       vaincheese
 
 **Skills**
-
     +----------------------+---------------------------------------------+
     |Programming Languages | Python, C, C#, Ruby, c++, Javascript, PHP   |
     +----------------------+---------------------------------------------+
@@ -82,8 +81,53 @@ My Projects
     |Other Tools           | Vim, Ipython, BASH scripting, Fabric        |
     +----------------------+---------------------------------------------+
 
-*Website*: www.kracekumar.com
-*Old Blog*: www.kracekumar.wordpress.com
-*Email*: me@kracekumar.com
-*Phone
+**Social links**
+    1. `Github <https://github.com/kracekumar/>`_
+    2. `Stackoverflow <http://stackoverflow.com/users/311413/kracekumar>`_
+    3. `Twitter <https://twitter.com/#!/kracetheking>`_
+    4. `Hacker News <http://hackerne.ws/user?id=kracekumar>`_
+    5. `Reddit <http://www.reddit.com/user/kracekumar/>`_
+    6. `Quora <http://www.quora.com/Kr-Ace-Kumar-Ramaraju/>`_
+    7. `Personal Site <http://www.kracekumar.com>`_
+    8. `Old Blog <http://kracekumar.wordpress.com>`_
 
+**Academics**
+    +-------------+------------------------------------------------------------------------------+
+    | 2005        | SSLC 89.5%                                                                   |
+    +-------------+------------------------------------------------------------------------------+
+    | 2007        | HSC 93.25%                                                                   |
+    +-------------+------------------------------------------------------------------------------+
+    | 2007 - 2011 | - B.Tech Information Technology from                                         |
+    |             |   Amrita Vishwa Vidyapetham, Coimbatore                                      |
+    |             |                                                                              |
+    |             | - CGPA - 7.27                                                                |
+    |             |                                                                              |
+    |             |  *College Projects*                                                          |
+    |             |      - Automatic generation of Pidgin status                                 |
+    |             |        using fortune command and Python D-BUS                                |
+    |             |                                                                              |
+    |             |       - Mini Template based Website builder(LAMP Stack)                      |
+    |             |                                                                              |
+    |             |      - Novel data discrimination in wireless Sensor                          |
+    |             |        Network (Python)                                                      |
+    |             |                                                                              |
+    |             |  *Speaker*                                                                   |
+    |             |       - IEEE Session: Programming at the speed of light                      |
+    |             |         Pythonism 3rd & 4th March 2011.                                      |
+    |             |                                                                              |
+    |             |         `Slides <http://www.slideshare.net/kracekumar/learn-python-7173668>`_|
+    +-------------+------------------------------------------------------------------------------+
+
+
+**Personal Details**
+    - Date Of Birth   : 12th Sep, 1989
+    - Father's Name   : Mr. Ramaraju.S
+    - Mother's Name   : Mrs. Kokilla Ramaraju
+    - Permanent Addres: 13/25B, Mani Manju Illam, Annanagar, KinathuKadavu, Coimbatore, TamilNadu - 642109
+    - Current Address : No 17, Soha Manzil, Nagawara, Bangalore, Karnataks - 560045
+
+*Email*: me@kracekumar.com
+
+*Phone*: +918553029521, +919790658304
+
+        I hereby declare that above furnished details are true to my knowledge
