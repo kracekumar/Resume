@@ -62,8 +62,7 @@ My Projects
         :Technologies: Python, Flask, Jinja 2, YAML
 
     :Open Source Contribution: Twython, Flask, Clint, args, brubeck, envoy, 
-     
-     vaincheese
+      vaincheese
 *Website*: www.kracekumar.com
 *Old Blog*: www.kracekumar.wordpress.com
 *Email*: me@kracekumar.com
