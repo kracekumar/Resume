@@ -134,6 +134,6 @@ My Projects
     - Father's Name     : Mr. Ramaraju.S
     - Mother's Name     : Mrs. Kokilla Ramaraju
     - Permanent Addres  : 13/25B, Mani Manju Illam, Annanagar, KinathuKadavu, Coimbatore, TamilNadu - 642109
-    - Temporary Address : No 17, Soha Manzil, Om Shakthi Matha Illam, Nagawara, Bangalore, Karnataks - 560045
+    - Temporary Address : No 17, Soha Manzil, Om Shakthi Matha Illam, Nagawara, Bangalore, Karnataka - 560045
 
 I hereby declare that above furnished details are true to my knowledge.
