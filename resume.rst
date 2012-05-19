@@ -2,7 +2,7 @@ Kracekumar
 ----
 **About Me**: Hacker, GNU/Linux Lover, FOSS Freak, Geek, Pythonista.
 
-`Github <https://github.com/kracekumar>`_  *Email*: me@kracekumar.com *Phone*: +918553029521, +919790658304
+`Github <https://github.com/kracekumar>`_  *Email*: me@kracekumar.com *Phone*: +918553029521, +919790658304 *Location*: Bangalore
 
 
 Current Work
