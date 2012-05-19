@@ -2,8 +2,17 @@ Kracekumar
 ----
 **About Me**: Hacker, GNU/Linux Lover, FOSS Freak, Geek, Pythonista.
 
-`Github <https://github.com/kracekumar>`_  *Email*: me@kracekumar.com *Phone*: +918553029521, +919790658304 *Location*: Bangalore
-
++-------------+------------------------------+
+|Github       | https://github.com/kracekumar|
++-------------+------------------------------+
+|Email        | me@kracekumar.com            |
++-------------+------------------------------+
+|Phone        | +918553029521, +919790658304 |
++-------------+------------------------------+
+|Location     |Bangalore                     |
++-------------+------------------------------+
+|Personal Site|http://www.kracekumar.com     |
++-------------+------------------------------+
 
 Current Work
     I am Associate System Engineering in IBM India Pvt Ltd, Bangalore. I 
@@ -85,14 +94,12 @@ My Projects
     +----------------------+---------------------------------------------+
 
 **Social links**
-    1. `Github <https://github.com/kracekumar/>`_
-    2. `Stackoverflow <http://stackoverflow.com/users/311413/kracekumar>`_
-    3. `Twitter <https://twitter.com/#!/kracetheking>`_
-    4. `Hacker News <http://hackerne.ws/user?id=kracekumar>`_
-    5. `Reddit <http://www.reddit.com/user/kracekumar/>`_
-    6. `Quora <http://www.quora.com/Kr-Ace-Kumar-Ramaraju/>`_
-    7. `Personal Site <http://www.kracekumar.com>`_
-    8. `Old Blog <http://kracekumar.wordpress.com>`_
+    1. `Stackoverflow <http://stackoverflow.com/users/311413/kracekumar>`_
+    2. `Twitter <https://twitter.com/#!/kracetheking>`_
+    3. `Hacker News <http://hackerne.ws/user?id=kracekumar>`_
+    4. `Reddit <http://www.reddit.com/user/kracekumar/>`_
+    5. `Quora <http://www.quora.com/Kr-Ace-Kumar-Ramaraju/>`_
+    6. `Old Blog <http://kracekumar.wordpress.com>`_
 
 **Academics**
     +-------------+------------------------------------------------------------------------------+
