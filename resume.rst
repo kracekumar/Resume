@@ -2,6 +2,9 @@ Kracekumar
 ----
 **About Me**: Hacker, GNU/Linux Lover, FOSS Freak, Geek, Pythonista.
 
+`Github <https://github.com/kracekumar>`_  *Email*: me@kracekumar.com *Phone*: +918553029521, +919790658304
+
+
 Current Work
     I am Associate System Engineering in IBM India Pvt Ltd, Bangalore. I 
     graduated from Amrita Vishwa Vidyapetham, Coimbatore 2011. 
@@ -126,8 +129,4 @@ My Projects
     - Permanent Addres  : 13/25B, Mani Manju Illam, Annanagar, KinathuKadavu, Coimbatore, TamilNadu - 642109
     - Temporary Address : No 17, Soha Manzil, Om Shakthi Matha Illam, Nagawara, Bangalore, Karnataks - 560045
 
-*Email*: me@kracekumar.com
-
-*Phone*: +918553029521, +919790658304
-
-        I hereby declare that above furnished details are true to my knowledge.
+I hereby declare that above furnished details are true to my knowledge.
